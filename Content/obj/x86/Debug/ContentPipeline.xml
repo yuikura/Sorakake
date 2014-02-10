@@ -1,0 +1,1637 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>b307c27f.jpg</Source>
+      <Name>b307c27f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\b307c27f.xnb</Output>
+      <Time>2009-08-05T22:32:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>earth.jpg</Source>
+      <Name>earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\earth.xnb</Output>
+      <Time>2009-08-05T22:32:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sampleBG2.png</Source>
+      <Name>sampleBG2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sampleBG2.xnb</Output>
+      <Time>2009-08-19T17:02:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sampleWaku2.png</Source>
+      <Name>sampleWaku2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sampleWaku2.xnb</Output>
+      <Time>2009-10-15T02:53:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sampleStart2.png</Source>
+      <Name>sampleStart2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sampleStart2.xnb</Output>
+      <Time>2009-10-15T02:53:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sampleOption2.png</Source>
+      <Name>sampleOption2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sampleOption2.xnb</Output>
+      <Time>2009-10-15T02:53:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SKY1.bmp</Source>
+      <Name>SKY1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\SKY1.xnb</Output>
+      <Time>2009-08-10T23:58:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Ground81.bmp</Source>
+      <Name>Ground81</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Ground81.xnb</Output>
+      <Time>2009-08-10T23:58:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SKY2.bmp</Source>
+      <Name>SKY2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\SKY2.xnb</Output>
+      <Time>2009-08-11T10:49:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>WAKU.png</Source>
+      <Name>WAKU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\WAKU.xnb</Output>
+      <Time>2009-08-19T16:43:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>WAKU2.png</Source>
+      <Name>WAKU2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\WAKU2.xnb</Output>
+      <Time>2009-10-08T02:29:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Circle.png</Source>
+      <Name>Circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Circle.xnb</Output>
+      <Time>2009-10-01T12:19:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>habataki.png</Source>
+      <Name>habataki</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\habataki.xnb</Output>
+      <Time>2009-10-06T17:08:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>kakkuu.png</Source>
+      <Name>kakkuu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\kakkuu.xnb</Output>
+      <Time>2009-10-06T17:08:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>habataki_shi.png</Source>
+      <Name>habataki_shi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\habataki_shi.xnb</Output>
+      <Time>2009-10-06T17:08:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>kakkuu_shi.png</Source>
+      <Name>kakkuu_shi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\kakkuu_shi.xnb</Output>
+      <Time>2009-10-06T17:08:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>chijo.png</Source>
+      <Name>chijo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\chijo.xnb</Output>
+      <Time>2009-10-06T17:08:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>chijo_shi.png</Source>
+      <Name>chijo_shi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\chijo_shi.xnb</Output>
+      <Time>2009-10-06T17:08:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_.png</Source>
+      <Name>shima_</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_.xnb</Output>
+      <Time>2009-09-04T17:42:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tree_2.png</Source>
+      <Name>tree_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tree_2.xnb</Output>
+      <Time>2009-09-05T18:09:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sea2.png</Source>
+      <Name>sea2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sea2.xnb</Output>
+      <Time>2009-09-21T19:25:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>asi.png</Source>
+      <Name>asi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\asi.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>dou.png</Source>
+      <Name>dou</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\dou.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>hane.png</Source>
+      <Name>hane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\hane.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_1.png</Source>
+      <Name>shima_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_1.xnb</Output>
+      <Time>2009-09-22T15:35:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_2.png</Source>
+      <Name>shima_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_2.xnb</Output>
+      <Time>2009-09-22T15:35:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_tex_4.png</Source>
+      <Name>shima_tex_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_tex_4.xnb</Output>
+      <Time>2009-09-22T16:26:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>x.jpg</Source>
+      <Name>x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\x.xnb</Output>
+      <Time>2009-09-25T19:59:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_3_0.png</Source>
+      <Name>shima_3_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_3_0.xnb</Output>
+      <Time>2009-09-30T16:31:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sima_1.png</Source>
+      <Name>sima_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sima_1.xnb</Output>
+      <Time>2009-09-30T16:31:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>MAP.png</Source>
+      <Name>MAP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\MAP.xnb</Output>
+      <Time>2009-10-01T10:38:02+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Yello.png</Source>
+      <Name>Yello</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Yello.xnb</Output>
+      <Time>2009-10-01T14:19:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>status_back_clear_frame3.png</Source>
+      <Name>status_back_clear_frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\status_back_clear_frame3.xnb</Output>
+      <Time>2009-10-02T08:29:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>checker.bmp</Source>
+      <Name>checker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\checker.xnb</Output>
+      <Time>2009-10-05T17:17:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2009-10-05T17:17:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2009-10-05T17:17:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageWindow.png</Source>
+      <Name>MessageWindow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\MessageWindow.xnb</Output>
+      <Time>2009-10-05T22:09:38+09:00</Time>
+    </Item>
+    <Item>
+      <Source>chijo-shi.png</Source>
+      <Name>chijo-shi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\chijo-shi.xnb</Output>
+      <Time>2009-10-06T17:08:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>kakkuu-shi.png</Source>
+      <Name>kakkuu-shi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\kakkuu-shi.xnb</Output>
+      <Time>2009-10-06T17:08:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_wall.jpg</Source>
+      <Name>tex_wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tex_wall.xnb</Output>
+      <Time>2009-10-07T16:11:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_yaguraRoof.jpg</Source>
+      <Name>tex_yaguraRoof</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tex_yaguraRoof.xnb</Output>
+      <Time>2009-10-07T16:11:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tree_texture_0.png</Source>
+      <Name>tree_texture_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tree_texture_0.xnb</Output>
+      <Time>2009-10-07T16:11:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tree_texture_1.png</Source>
+      <Name>tree_texture_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tree_texture_1.xnb</Output>
+      <Time>2009-10-07T16:11:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>white_wing.png</Source>
+      <Name>white_wing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\white_wing.xnb</Output>
+      <Time>2009-10-08T02:30:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>white_wing_waku.png</Source>
+      <Name>white_wing_waku</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\white_wing_waku.xnb</Output>
+      <Time>2009-10-08T02:30:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>bird_vector.png</Source>
+      <Name>bird_vector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\bird_vector.xnb</Output>
+      <Time>2009-10-08T03:10:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Hight.png</Source>
+      <Name>Hight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Hight.xnb</Output>
+      <Time>2009-10-08T13:14:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>status_back_clear_frame4.png</Source>
+      <Name>status_back_clear_frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\status_back_clear_frame4.xnb</Output>
+      <Time>2009-10-08T19:33:38+09:00</Time>
+    </Item>
+    <Item>
+      <Source>particle\Sun.png</Source>
+      <Name>particle\Sun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\particle\Sun.xnb</Output>
+      <Time>2009-10-10T15:47:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>particle\Sun2.png</Source>
+      <Name>particle\Sun2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\particle\Sun2.xnb</Output>
+      <Time>2009-10-10T15:47:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>particle\sunCircle.png</Source>
+      <Name>particle\sunCircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\particle\sunCircle.xnb</Output>
+      <Time>2009-10-10T15:47:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>particle\sunCircle2.png</Source>
+      <Name>particle\sunCircle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\particle\sunCircle2.xnb</Output>
+      <Time>2009-10-10T15:47:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>particle\white.png</Source>
+      <Name>particle\white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\particle\white.xnb</Output>
+      <Time>2009-10-10T15:47:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Arrow.png</Source>
+      <Name>Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Arrow.xnb</Output>
+      <Time>2009-10-10T16:16:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>board_paper.png</Source>
+      <Name>board_paper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\board_paper.xnb</Output>
+      <Time>2009-10-13T12:00:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sampleOption3.png</Source>
+      <Name>sampleOption3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sampleOption3.xnb</Output>
+      <Time>2009-10-15T02:53:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sampleStart3.png</Source>
+      <Name>sampleStart3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sampleStart3.xnb</Output>
+      <Time>2009-10-15T02:53:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sampleTest3.png</Source>
+      <Name>sampleTest3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sampleTest3.xnb</Output>
+      <Time>2009-10-15T02:53:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sampleWaku3.png</Source>
+      <Name>sampleWaku3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sampleWaku3.xnb</Output>
+      <Time>2009-10-15T02:53:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2009-10-14T20:21:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>space2.x</Source>
+      <Name>space2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\space2.xnb</Output>
+      <Time>2009-08-14T23:21:52+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\space2_0.xml</Key>
+        <Value>2009-10-15T04:08:09.140625+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>space.x</Source>
+      <Name>space</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\space.xnb</Output>
+      <Time>2009-08-14T23:56:16+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\space_0.xml</Key>
+        <Value>2009-10-15T04:08:10.0625+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>ground15.x</Source>
+      <Name>ground15</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\ground15.xnb</Output>
+      <Time>2009-08-19T16:47:44+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ground15_0.xml</Key>
+        <Value>2009-10-15T04:08:10.296875+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>sample.x</Source>
+      <Name>sample</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sample.xnb</Output>
+      <Time>2009-08-29T23:38:16+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sample_0.xml</Key>
+        <Value>2009-10-15T04:08:10.453125+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>shima2.x</Source>
+      <Name>shima2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima2.xnb</Output>
+      <Time>2009-09-22T15:46:36+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima2_0.xml</Key>
+        <Value>2009-10-15T04:08:11.609375+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima__0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>kumo.x</Source>
+      <Name>kumo</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\kumo.xnb</Output>
+      <Time>2009-09-04T22:38:52+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\kumo_0.xml</Key>
+        <Value>2009-10-15T04:08:13.828125+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>tree_1.x</Source>
+      <Name>tree_1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tree_1.xnb</Output>
+      <Time>2009-09-05T18:09:14+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\tree_1_0.xml</Key>
+        <Value>2009-10-15T04:08:15.84375+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>shima1.x</Source>
+      <Name>shima1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima1.xnb</Output>
+      <Time>2009-09-22T15:47:00+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima1_0.xml</Key>
+        <Value>2009-10-15T04:08:16.890625+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima__0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sea.x</Source>
+      <Name>sea</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sea.xnb</Output>
+      <Time>2009-10-17T01:10:20.671875+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sea_0.xml</Key>
+        <Value>2009-10-17T01:10:49.703125+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\water_surface01_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ground18.x</Source>
+      <Name>ground18</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\ground18.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ground18_0.xml</Key>
+        <Value>2009-10-15T04:08:18+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>ground19.x</Source>
+      <Name>ground19</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\ground19.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ground19_0.xml</Key>
+        <Value>2009-10-15T04:08:18.09375+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>mount.x</Source>
+      <Name>mount</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\mount.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\mount_0.xml</Key>
+        <Value>2009-10-15T04:08:18.28125+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Phoenix.x</Source>
+      <Name>Phoenix</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Phoenix.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Phoenix_0.xml</Key>
+        <Value>2009-10-15T04:08:18.90625+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\hane_0.xnb</Request>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\asi_0.xnb</Request>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\dou_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Phoenix3.x</Source>
+      <Name>Phoenix3</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Phoenix3.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Phoenix3_0.xml</Key>
+        <Value>2009-10-15T04:08:20.3125+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\hane_0.xnb</Request>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\asi_0.xnb</Request>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\dou_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shima.x</Source>
+      <Name>shima</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima.xnb</Output>
+      <Time>2009-09-22T15:45:28+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima_0.xml</Key>
+        <Value>2009-10-15T04:08:21.328125+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima__0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sphere.x</Source>
+      <Name>sphere</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sphere.xnb</Output>
+      <Time>2009-09-22T15:35:16+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sphere_0.xml</Key>
+        <Value>2009-10-15T04:08:21.53125+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>sphere1uR.x</Source>
+      <Name>sphere1uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sphere1uR.xnb</Output>
+      <Time>2009-09-22T15:41:26+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sphere1uR_0.xml</Key>
+        <Value>2009-10-15T04:08:21.609375+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>shima_4.x</Source>
+      <Name>shima_4</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_4.xnb</Output>
+      <Time>2009-09-22T16:29:34+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima_4_0.xml</Key>
+        <Value>2009-10-15T04:08:22.640625+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_tex_4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shima_5.x</Source>
+      <Name>shima_5</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_5.xnb</Output>
+      <Time>2009-09-22T16:30:34+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima_5_0.xml</Key>
+        <Value>2009-10-15T04:08:24.40625+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_tex_4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shima_6.x</Source>
+      <Name>shima_6</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_6.xnb</Output>
+      <Time>2009-09-22T16:30:34+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima_6_0.xml</Key>
+        <Value>2009-10-15T04:08:25.4375+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_tex_4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shima_7.x</Source>
+      <Name>shima_7</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_7.xnb</Output>
+      <Time>2009-09-22T16:28:26+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima_7_0.xml</Key>
+        <Value>2009-10-15T04:08:26.375+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_tex_4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shima_8.x</Source>
+      <Name>shima_8</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_8.xnb</Output>
+      <Time>2009-09-22T16:28:26+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima_8_0.xml</Key>
+        <Value>2009-10-15T04:08:27.46875+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_tex_4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shima_9.x</Source>
+      <Name>shima_9</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_9.xnb</Output>
+      <Time>2009-09-22T16:28:26+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima_9_0.xml</Key>
+        <Value>2009-10-15T04:08:28.609375+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_tex_4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ie.x</Source>
+      <Name>ie</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\ie.xnb</Output>
+      <Time>2009-09-25T19:59:52+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ie_0.xml</Key>
+        <Value>2009-10-15T04:08:28.734375+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\x_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shima_3.x</Source>
+      <Name>shima_3</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_3.xnb</Output>
+      <Time>2009-09-30T16:44:20+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima_3_0.xml</Key>
+        <Value>2009-10-15T04:08:30.015625+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sima_1_0.xnb</Request>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_3_0_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ship.x</Source>
+      <Name>ship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\ship.xnb</Output>
+      <Time>2009-09-30T16:31:32+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ship_0.xml</Key>
+        <Value>2009-10-15T04:08:31.1875+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Ring.x</Source>
+      <Name>Ring</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Ring.xnb</Output>
+      <Time>2009-10-02T08:28:46+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Ring_0.xml</Key>
+        <Value>2009-10-15T04:08:31.3125+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Yello_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>grid.x</Source>
+      <Name>grid</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\grid.xnb</Output>
+      <Time>2009-10-05T17:17:20+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\grid_0.xml</Key>
+        <Value>2009-10-15T04:08:31.578125+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\checker_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>siro_0.x</Source>
+      <Name>siro_0</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\siro_0.xnb</Output>
+      <Time>2009-10-07T16:52:10+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\siro_0_0.xml</Key>
+        <Value>2009-10-15T04:08:32.0625+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tex_wall_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ship_1.x</Source>
+      <Name>ship_1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\ship_1.xnb</Output>
+      <Time>2009-10-07T16:52:10+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ship_1_0.xml</Key>
+        <Value>2009-10-15T04:08:32.96875+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tree_texture_0_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shima_3_.x</Source>
+      <Name>shima_3_</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_3_.xnb</Output>
+      <Time>2009-10-07T17:41:08+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shima_3__0.xml</Key>
+        <Value>2009-10-15T04:08:34.53125+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sima_1_0.xnb</Request>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_3_0_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>moai.x</Source>
+      <Name>moai</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\moai.xnb</Output>
+      <Time>2009-10-08T22:00:46+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\moai_0.xml</Key>
+        <Value>2009-10-15T04:08:34.71875+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>kujira.x</Source>
+      <Name>kujira</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\kujira.xnb</Output>
+      <Time>2009-10-10T14:27:40+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\kujira_0.xml</Key>
+        <Value>2009-10-15T04:08:35.3125+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>board_sorakake.x</Source>
+      <Name>board_sorakake</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\board_sorakake.xnb</Output>
+      <Time>2009-10-13T12:01:00+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\board_sorakake_0.xml</Key>
+        <Value>2009-10-15T04:08:35.515625+09:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tree_texture_0_0.xnb</Request>
+      <Request>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\board_paper_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Button.wav</Source>
+      <Name>Button</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Button.xnb</Output>
+      <Time>2009-08-23T15:36:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Fly.wav</Source>
+      <Name>Fly</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Fly.xnb</Output>
+      <Time>2009-08-23T15:36:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>WAVE.wav</Source>
+      <Name>WAVE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\WAVE.xnb</Output>
+      <Time>2009-08-23T15:36:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>KAZE.wav</Source>
+      <Name>KAZE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\KAZE.xnb</Output>
+      <Time>2009-09-08T23:22:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>pati.wav</Source>
+      <Name>pati</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\pati.xnb</Output>
+      <Time>2009-09-28T14:10:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>drop.wav</Source>
+      <Name>drop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\drop.xnb</Output>
+      <Time>2009-10-06T18:43:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>water.wav</Source>
+      <Name>water</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\water.xnb</Output>
+      <Time>2009-10-09T23:25:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Chaim.wav</Source>
+      <Name>Chaim</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Chaim.xnb</Output>
+      <Time>2009-10-09T23:40:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleEffect.fx</Source>
+      <Name>ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\ParticleEffect.xnb</Output>
+      <Time>2009-10-05T17:17:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>space2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\space2_0.xml</Output>
+      <Time>2009-08-14T23:21:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>space.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\space_0.xml</Output>
+      <Time>2009-08-14T23:56:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ground15.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ground15_0.xml</Output>
+      <Time>2009-08-19T16:47:44+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sample.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sample_0.xml</Output>
+      <Time>2009-08-29T23:38:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima2_0.xml</Output>
+      <Time>2009-09-22T15:46:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima__0.xnb</Output>
+      <Time>2009-09-04T17:42:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>kumo.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\kumo_0.xml</Output>
+      <Time>2009-09-04T22:38:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tree_1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\tree_1_0.xml</Output>
+      <Time>2009-09-05T18:09:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima1_0.xml</Output>
+      <Time>2009-09-22T15:47:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sea.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sea_0.xml</Output>
+      <Time>2009-10-17T01:10:20.671875+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ground18.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ground18_0.xml</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ground19.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ground19_0.xml</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>mount.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\mount_0.xml</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Phoenix.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Phoenix_0.xml</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>hane.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\hane_0.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>asi.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\asi_0.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>dou.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\dou_0.xnb</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Phoenix3.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Phoenix3_0.xml</Output>
+      <Time>2009-09-22T15:35:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima_0.xml</Output>
+      <Time>2009-09-22T15:45:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sphere_0.xml</Output>
+      <Time>2009-09-22T15:35:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere1uR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sphere1uR_0.xml</Output>
+      <Time>2009-09-22T15:41:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_4.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima_4_0.xml</Output>
+      <Time>2009-09-22T16:29:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_tex_4.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_tex_4_0.xnb</Output>
+      <Time>2009-09-22T16:26:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_5.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima_5_0.xml</Output>
+      <Time>2009-09-22T16:30:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_6.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima_6_0.xml</Output>
+      <Time>2009-09-22T16:30:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_7.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima_7_0.xml</Output>
+      <Time>2009-09-22T16:28:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_8.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima_8_0.xml</Output>
+      <Time>2009-09-22T16:28:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_9.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima_9_0.xml</Output>
+      <Time>2009-09-22T16:28:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ie.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ie_0.xml</Output>
+      <Time>2009-09-25T19:59:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>x.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\x_0.xnb</Output>
+      <Time>2009-09-25T19:59:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_3.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima_3_0.xml</Output>
+      <Time>2009-09-30T16:44:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sima_1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\sima_1_0.xnb</Output>
+      <Time>2009-09-30T16:31:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_3_0.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\shima_3_0_0.xnb</Output>
+      <Time>2009-09-30T16:31:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ship_0.xml</Output>
+      <Time>2009-09-30T16:31:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Ring.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Ring_0.xml</Output>
+      <Time>2009-10-02T08:28:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Yello.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Yello_0.xnb</Output>
+      <Time>2009-10-01T14:19:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>grid.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\grid_0.xml</Output>
+      <Time>2009-10-05T17:17:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>checker.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\checker_0.xnb</Output>
+      <Time>2009-10-05T17:17:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>siro_0.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\siro_0_0.xml</Output>
+      <Time>2009-10-07T16:52:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_wall.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tex_wall_0.xnb</Output>
+      <Time>2009-10-07T16:11:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ship_1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ship_1_0.xml</Output>
+      <Time>2009-10-07T16:52:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tree_texture_0.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\tree_texture_0_0.xnb</Output>
+      <Time>2009-10-07T16:11:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>shima_3_.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shima_3__0.xml</Output>
+      <Time>2009-10-07T17:41:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>moai.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\moai_0.xml</Output>
+      <Time>2009-10-08T22:00:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>kujira.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\kujira_0.xml</Output>
+      <Time>2009-10-10T14:27:40+09:00</Time>
+    </Item>
+    <Item>
+      <Source>board_sorakake.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\board_sorakake_0.xml</Output>
+      <Time>2009-10-13T12:01:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>board_paper.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\board_paper_0.xnb</Output>
+      <Time>2009-10-13T12:00:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Arrow2.png</Source>
+      <Name>Arrow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Arrow2.xnb</Output>
+      <Time>2009-10-16T22:53:38.40625+09:00</Time>
+    </Item>
+    <Item>
+      <Source>water_surface01.jpg</Source>
+      <Name>water_surface01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\water_surface01.xnb</Output>
+      <Time>2009-10-17T01:10:24.015625+09:00</Time>
+    </Item>
+    <Item>
+      <Source>water_surface01.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\water_surface01_0.xnb</Output>
+      <Time>2009-10-17T01:10:24.015625+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Compas.png</Source>
+      <Name>Compas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Compas.xnb</Output>
+      <Time>2009-10-17T23:09:58.636738+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Compas-arrow.png</Source>
+      <Name>Compas-arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Compas-arrow.xnb</Output>
+      <Time>2009-10-17T23:10:02.151913+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Compas-arrow-.png</Source>
+      <Name>Compas-arrow-</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Compas-arrow-.xnb</Output>
+      <Time>2009-10-17T23:34:09.5502074+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Compas-.png</Source>
+      <Name>Compas-</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\Compas-.xnb</Output>
+      <Time>2009-10-17T23:33:35.5380656+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-07-15T18:24:57.4568922+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

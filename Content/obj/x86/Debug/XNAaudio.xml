@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 1018920094;
+    Bank Last Revised High = 30034161;
+
+    Wave
+    {
+        Name = Button;
+        File = Button.wav;
+        Build Settings Last Modified Low = 3148035848;
+        Build Settings Last Modified High = 30024612;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 13824;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2314129598;
+            Last Modified High = 30024612;
+        }
+    }
+
+    Wave
+    {
+        Name = WAVE;
+        File = WAVE.wav;
+        Build Settings Last Modified Low = 3148348348;
+        Build Settings Last Modified High = 30024612;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 464444;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2325535848;
+            Last Modified High = 30024612;
+        }
+    }
+
+    Wave
+    {
+        Name = Fly;
+        File = Fly.wav;
+        Build Settings Last Modified Low = 3148504598;
+        Build Settings Last Modified High = 30024612;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 106174;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2335067098;
+            Last Modified High = 30024612;
+        }
+    }
+
+    Wave
+    {
+        Name = KAZE;
+        File = KAZE.wav;
+        Build Settings Last Modified Low = 53467586;
+        Build Settings Last Modified High = 30025902;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 138180;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3217184882;
+            Last Modified High = 30025901;
+        }
+    }
+
+    Wave
+    {
+        Name = pati;
+        File = pati.wav;
+        Build Settings Last Modified Low = 4083864414;
+        Build Settings Last Modified High = 30031866;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 203448;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4078519210;
+            Last Modified High = 30031865;
+        }
+    }
+
+    Wave
+    {
+        Name = drop;
+        File = drop.wav;
+        Build Settings Last Modified Low = 1390696652;
+        Build Settings Last Modified High = 30033513;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 137592;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3692753336;
+            Last Modified High = 30033509;
+        }
+    }
+
+    Wave
+    {
+        Name = water;
+        File = water.wav;
+        Build Settings Last Modified Low = 1040475324;
+        Build Settings Last Modified High = 30034156;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 216064;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3396780288;
+            Last Modified High = 29942722;
+        }
+    }
+
+    Wave
+    {
+        Name = Chaim;
+        File = Chaim.wav;
+        Build Settings Last Modified Low = 1147571982;
+        Build Settings Last Modified High = 30034158;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 294612;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 66634482;
+            Last Modified High = 30034158;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

@@ -1,0 +1,54 @@
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1.3\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1.5\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KENTO\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1.8\SORAKAKE.Ver1.5\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KENTO\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1.9\SORAKAKE.Ver1.9\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06301\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1.9\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.2.0\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.2.0\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\KENTO\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.5.5\SORAKAKE.Ver.2.0\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KENTO\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.5.5\SORAKAKE.Ver.2.0\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.3.2\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.3.2\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\KENTO\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.6.2\SORAKAKE.Ver.3.2\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KENTO\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.6.2\SORAKAKE.Ver.3.2\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.6.2\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.6.2\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06301\デスクトップ\SORAKAKE.Ver.6.2\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06301\デスクトップ\SORAKAKE.Ver.6.2\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.7.4\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.7.4\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+L:\SORAKAKE.Ver.7.4\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\SORAKAKE.Ver.7.4\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.8.4\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.8.4\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\KENTO\デスクトップ\SORAKAKE.Ver.8.4\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KENTO\デスクトップ\SORAKAKE.Ver.8.4\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\KENTO\デスクトップ\SORAKAKE.Ver.8.6\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KENTO\デスクトップ\SORAKAKE.Ver.8.6\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.8.8\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.8.8\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\ProconUser\デスクトップ\SORAKAKE.Ver.8.8\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ProconUser\デスクトップ\SORAKAKE.Ver.8.8\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.9.6\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.9.6\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06301\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.9.6\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06301\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.9.6\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.9.7\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.9.7\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\KENTO\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.0\SORAKAKE.Ver.10.0\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KENTO\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.0\SORAKAKE.Ver.10.0\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.0\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.0\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\KENTO\My Documents\受信したファイル\SORAKAKE.Ver.10.0(1)\SORAKAKE.Ver.10.0\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KENTO\My Documents\受信したファイル\SORAKAKE.Ver.10.0(1)\SORAKAKE.Ver.10.0\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.3.1\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.3.1\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+E:\SORAKAKE.Ver.10.3.1\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SORAKAKE.Ver.10.3.1\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.3.2\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.3.2\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06301\デスクトップ\SORAKAKE.Ver.10.3.2\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06301\デスクトップ\SORAKAKE.Ver.10.3.2\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\Content\obj\x86\Debug\XNAaudio.xml

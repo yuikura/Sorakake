@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file contains an xml description of a font, and will be read by the XNA
+Framework Content Pipeline. Follow the comments to customize the appearance
+of the font in your game, and to change the characters which are available to draw
+with.
+-->
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:FontDescription">
+
+    <!--
+    Modify this string to change the font that will be imported. Redistributable sample
+    fonts are available at http://go.microsoft.com/fwlink/?LinkId=104778&clcid=0x409.
+    -->
+    <FontName>Arial</FontName>
+
+    <!--
+    Size is a float value, measured in points. Modify this value to change
+    the size of the font.
+    -->
+    <Size>14</Size>
+
+    <!--
+    Spacing is a float value, measured in pixels. Modify this value to change
+    the amount of spacing in between characters.
+    -->
+    <Spacing>0</Spacing>
+
+    <!--
+    UseKerning controls the layout of the font. If this value is true, kerning information
+    will be used when placing characters.
+    -->
+    <UseKerning>true</UseKerning>
+
+    <!--
+    Style controls the style of the font. Valid entries are "Regular", "Bold", "Italic",
+    and "Bold, Italic", and are case sensitive.
+    -->
+    <Style>Regular</Style>
+    
+    <!--
+    CharacterRegions control what letters are available in the font. Every
+    character from Start to End will be built and made available for drawing. The
+    default range is from 32, (ASCII space), to 126, ('~'), covering the basic Latin
+    character set. The characters are ordered according to the Unicode standard.
+    See the documentation for more information.
+    -->
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#32;</Start>
+        <End>&#126;</End>
+      </CharacterRegion>
+      <!--hiragana-->
+      <CharacterRegion>
+        <Start>&#x3041;</Start>
+        <End>&#x309E;</End>
+      </CharacterRegion>
+      <!--katakana-->
+      <CharacterRegion>
+        <Start>&#x30A1;</Start>
+        <End>&#x30FE;</End>
+      </CharacterRegion>
+      <!--kanji-->
+      <CharacterRegion>
+        <Start>今</Start>
+        <End>今</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>日</Start>
+        <End>日</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>天</Start>
+        <End>天</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>気</Start>
+        <End>気</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>晴</Start>
+        <End>晴</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>高</Start>
+        <End>高</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>度</Start>
+        <End>度</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>落</Start>
+        <End>落</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>?</Start>
+        <End>?</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>。</Start>
+        <End>。</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>遠</Start>
+        <End>遠</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>過</Start>
+        <End>過</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>引</Start>
+        <End>引</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>返</Start>
+        <End>返</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>成</Start>
+        <End>成</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>功</Start>
+        <End>功</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>回</Start>
+        <End>回</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>転</Start>
+        <End>転</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>水</Start>
+        <End>水</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>没</Start>
+        <End>没</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>中</Start>
+        <End>中</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>始</Start>
+        <End>始</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>最</Start>
+        <End>最</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>飛</Start>
+        <End>飛</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>立</Start>
+        <End>立</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>度</Start>
+        <End>度</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>速</Start>
+        <End>速</End>
+      </CharacterRegion>
+      
+      <CharacterRegion>
+        <Start>長</Start>
+        <End>長</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>時</Start>
+        <End>時</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>間</Start>
+        <End>間</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>行</Start>
+        <End>行</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>達</Start>
+        <End>達</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>心</Start>
+        <End>心</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>距</Start>
+        <End>距</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>離</Start>
+        <End>離</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>回</Start>
+        <End>回</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>刻</Start>
+        <End>刻</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>前</Start>
+        <End>前</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>月</Start>
+        <End>月</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>地</Start>
+        <End>地</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>球</Start>
+        <End>球</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>周</Start>
+        <End>周</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>分</Start>
+        <End>分</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>大</Start>
+        <End>大</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>気</Start>
+        <End>気</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>圏</Start>
+        <End>圏</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>抜</Start>
+        <End>抜</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>世</Start>
+        <End>世</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>界</Start>
+        <End>界</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>下</Start>
+        <End>下</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>降</Start>
+        <End>降</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>船</Start>
+        <End>船</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>上</Start>
+        <End>上</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>天</Start>
+        <End>天</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>城</Start>
+        <End>城</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>空</Start>
+        <End>空</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>獲</Start>
+        <End>獲</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>得</Start>
+        <End>得</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>神</Start>
+        <End>神</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>取</Start>
+        <End>取</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>残</Start>
+        <End>残</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>達</Start>
+        <End>達</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>者</Start>
+        <End>者</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>助</Start>
+        <End>助</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>走</Start>
+        <End>走</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>大</Start>
+        <End>大</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>冒</Start>
+        <End>冒</End>
+      </CharacterRegion>
+
+      <CharacterRegion>
+        <Start>険</Start>
+        <End>険</End>
+      </CharacterRegion>
+
+
+
+    </CharacterRegions>
+  </Asset>
+</XnaContent>

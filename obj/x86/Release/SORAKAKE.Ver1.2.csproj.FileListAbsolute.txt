@@ -1,0 +1,4 @@
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.2.0\SORAKAKE.Ver1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.2.0\SORAKAKE.Ver1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.2.0\SORAKAKE.Ver1\obj\x86\Release\SORAKAKE.Ver1.MenuForm.resources
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.2.0\SORAKAKE.Ver1\obj\x86\Release\SORAKAKE.Ver1.2.csproj.GenerateResource.Cache

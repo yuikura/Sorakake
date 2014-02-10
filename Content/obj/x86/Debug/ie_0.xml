@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Identity>
+      <SourceFilename>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\Content\ie.x</SourceFilename>
+      <SourceTool>XImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name></Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>0.68451 0.73878 -1 -0.68451 0.73878 -1 -0.68451 -0.02817 -1 0.68451 -0.02817 -1 -0.68451 0.73878 1 -0.68451 -0.02817 1 0.68451 -0.02817 1 0.68451 0.73878 1 0 1.30911 -1 0.20662 -0.02817 1 0.20662 0.73878 1 0.5756 0.73878 1 0.5756 -0.02817 1 0 1.30911 1 0.96708 0.55226 -1.21472 0.96708 0.55226 1.21472 0 1.38858 1.21472 0 1.38858 -1.21472 0.90304 0.4728 -1.21472 0 1.30911 -1.21472 0.90304 0.4728 1.21472 0 1.30911 1.21472 -0.96708 0.55226 1.21472 -0.96708 0.55226 -1.21472 -0.90304 0.4728 1.21472 -0.90304 0.4728 -1.21472</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>0 1 2 0 2 3 4 5 6 4 6 7 8 9 10 8 10 11 12 13 14 15 16 17 15 17 18 19 20 21 19 21 22 23 24 25 26 27 28 26 28 29 30 31 32 30 32 33 34 35 36 34 36 37 38 39 40 38 40 41 42 43 44 42 44 45 46 47 48 46 48 49 50 51 52 50 52 53 54 55 56 54 56 57 58 59 60 58 60 61 62 63 64 62 64 65 66 67 68 66 68 69</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 2 1 6 7 0 3 1 0 8 9 5 4 10 11 7 6 12 7 4 13 14 15 16 17 18 14 17 19 20 18 19 21 15 20 21 16 15 14 18 20 22 23 17 16 24 22 16 21 25 24 21 19 23 25 19 17 23 22 24 25 9 10 11 12</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0.654117167 0.756393254 0 0.654117167 0.756393254 0 0.654117167 0.756393254 0 0.654117167 0.756393254 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 -0.67948 -0.733694 0 -0.67948 -0.733694 0 -0.67948 -0.733694 0 -0.67948 -0.733694 0 0 0 1 0 0 1 0 0 1 0 0 1 0.7786439 -0.627465963 0 0.7786439 -0.627465963 0 0.7786439 -0.627465963 0 0.7786439 -0.627465963 0 -0.654117167 0.756393254 0 -0.654117167 0.756393254 0 -0.654117167 0.756393254 0 -0.654117167 0.756393254 0 0 0 1 0 0 1 0 0 1 0 0 1 0.67948 -0.733694 0 0.67948 -0.733694 0 0.67948 -0.733694 0 0.67948 -0.733694 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 -0.7786439 -0.627465963 0 -0.7786439 -0.627465963 0 -0.7786439 -0.627465963 0 -0.7786439 -0.627465963 0 0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="Color0" ElementType="Framework:Vector4">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.01511 0.99759 0.60101 0.99945 0.60107 0.6701 0.01498 0.66715 0.01511 0.99759 0.01498 0.66715 0.60107 0.6701 0.60101 0.99945 0.60101 0.99945 0.60107 0.6701 0.01498 0.66715 0.01511 0.99759 -0.00086 0.66158 0.40171 0.66179 0.19898 0.38212 0.00233 0.99708 0.60101 0.99696 0.60107 0.66762 0.0022 0.66664 0.58747 0.99759 0.68237 0.99642 0.68243 0.66708 0.58733 0.66715 -0.00086 0.66158 0.40171 0.66179 0.19898 0.38212 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.00548 0.34876 0.45978 0.34687 0.46402 0.00103 0.00179 0.00274 0.25646 0.5254 0.25849 0.34481 0.16568 0.34467 0.16305 0.52546</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver.10.4.1\SORAKAKE.Ver1\Content\ie.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.7872 0.8 0.7464</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0.62976 0.64 0.59712</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">5</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\x.jpg</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

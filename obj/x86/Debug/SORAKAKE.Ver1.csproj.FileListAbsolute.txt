@@ -1,0 +1,12 @@
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\bin\x86\Debug\Content\b307c27f.xnb
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\bin\x86\Debug\Content\earth.xnb
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\bin\x86\Debug\Content\ground7.xnb
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\bin\x86\Debug\Content\space2.xnb
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\bin\x86\Debug\SORAKAKE.Ver1.exe
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\bin\x86\Debug\SORAKAKE.Ver1.pdb
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\obj\x86\Debug\SORAKAKE.Ver1.exe
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\obj\x86\Debug\SORAKAKE.Ver1.pdb
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\bin\x86\Debug\Content\font.xnb
+C:\Documents and Settings\i06341\My Documents\Visual Studio 2008\Projects\SORAKAKE.Ver1\SORAKAKE.Ver1\bin\x86\Debug\Content\space3.xnb
